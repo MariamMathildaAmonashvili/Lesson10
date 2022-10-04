@@ -1,0 +1,73 @@
+* { 
+    margin: 0;
+    padding: 0;
+}
+ footer { width: 100%;
+    height: 1000px;
+    background-color: blue;
+    display: inline-block;
+    color: white;
+    padding-left: 10%;
+    padding-top: 15%;
+
+}
+
+span { 
+    background-color: white;
+    width: 48px;
+    height: 45px;
+
+}
+
+span img {
+    width: 18px;
+    margin-left: 15px;
+    margin-top: 15px;
+}
+
+iframe {
+    height: 20%;
+    width: 463px;
+    padding-bottom: 30px;
+    }
+    
+.contact { display: inline;
+    padding-top: 10px;
+    font-size: 28px;
+    font-family:  Helvetica;
+
+
+}
+
+.lorem {
+    width: 463px;
+    padding-top: 40px;
+    padding-bottom: 30px;
+    font-family:  HelveticaNeueLTGEOW82-55Rm ;
+    font-weight: 100;
+    font-size: 16px;
+    color: #FFFFFF;
+
+
+}
+
+.secondpart {
+    display: flex;
+    flex-wrap: row;
+    align-items: center;
+    width: 60%;
+}
+
+.phonelogo , .emaillogo {
+    display: flex ;
+}
+
+.phone-paragraph, .email-paragraph {
+    padding-top: 10px;
+    margin-left: 15px;
+}
+
+.emaillogo {
+    padding-left: 80px;
+
+}
